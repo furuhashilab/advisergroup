@@ -1,5 +1,5 @@
 # 古橋研究室/DRONEBIRD アドバイザーグループ
-青山学院大学の交流の場「アドグル：アドバイザーグループ」として古橋研究室用リポジトリです。
+青山学院大学の交流の場「アドグル：アドバイザーグループ」 古橋研究室用リポジトリです。
 
 参加希望者は [LINEオープンチャット「FuruhashiLab/DRONEBIRD」](https://line.me/ti/g2/UIaFnxDSC-gq5jwGdq5urA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) からJOINしてください。
 
