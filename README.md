@@ -1,9 +1,9 @@
 # 古橋研究室/DRONEBIRD アドバイザーグループ
 青山学院大学全学生の交流の場「アドグル：アドバイザーグループ」 古橋研究室用リポジトリです。
 
-参加希望者は [LINEオープンチャット「FuruhashiLab/DRONEBIRD」](https://line.me/ti/g2/UIaFnxDSC-gq5jwGdq5urA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default) からJOINしてください。
+参加希望者は [LINEオープンチャット「FuruhashiLab/DRONEBIRD」](https://line.me/ti/g2/UIaFnxDSC-gq5jwGdq5urA) からJOINしてください。
 
-<a href="https://line.me/ti/g2/UIaFnxDSC-gq5jwGdq5urA?utm_source=invitation&utm_medium=link_copy&utm_campaign=default" ><img src="https://github.com/furuhashilab/advisergroup/blob/main/assets/images/167751594_251508870015580_3742215109158859642_n.jpg?raw=true" width="300" /></a>
+<a href="https://line.me/ti/g2/UIaFnxDSC-gq5jwGdq5urA" ><img src="https://github.com/furuhashilab/advisergroup/blob/main/assets/images/167751594_251508870015580_3742215109158859642_n.jpg?raw=true" width="300" /></a>
 
 
 ## アドバイザー・グループ登録について
